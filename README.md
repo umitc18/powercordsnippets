@@ -1,0 +1,2 @@
+# powercordsnippets
+snippets for Powercord
